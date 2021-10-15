@@ -29,6 +29,7 @@ jobs:
       uses: actions/checkout@main
       with:
         persist-credentials: false
+        submodules: recursive
 
     - name: convert notebooks and word docs to posts
       uses: ./_action_files
