@@ -2,7 +2,6 @@
 layout: page
 title: Kjell Jorner
 permalink: /about/
-image: images/portrait.jpg
 ---
 
 ![Portrait of Kjell]({{site.baseurl}}/images/portrait.jpg)
