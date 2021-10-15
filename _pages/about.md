@@ -2,10 +2,9 @@
 layout: page
 title: About Me
 permalink: /about/
+image: images/portrait.jpg
 ---
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+I'm a postdoctoral researcher applying machine learning and artificial intelligence for inverse design of molecules and chemical reactivity in Alán Aspuru-Guzik's [Matter Lab](https://www.matter.toronto.edu) at the University of Toronto. I'm also associated with Chalmers University of Technology in Gothenburg, Sweden and the [group](https://rahmlab.com) of Martin Rahm.
 
-
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+All views my own.
