@@ -1,1 +1,1 @@
-Sitemap: https://kjelljorner.github.io/blog_test/sitemap.xml
+Sitemap: https://kjelljorner.github.io/blog/sitemap.xml

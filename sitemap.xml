@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://kjelljorner.github.io/blog_test/2021/10/15/Chiral-templating.html</loc>
+<loc>https://kjelljorner.github.io/blog/2021/10/15/Chiral-templating.html</loc>
 <lastmod>2021-10-15T00:00:00-05:00</lastmod>
 </url>
 <url>
-<loc>https://kjelljorner.github.io/blog_test/about/</loc>
+<loc>https://kjelljorner.github.io/blog/about/</loc>
 </url>
 <url>
-<loc>https://kjelljorner.github.io/blog_test/</loc>
+<loc>https://kjelljorner.github.io/blog/</loc>
 </url>
 <url>
-<loc>https://kjelljorner.github.io/blog_test/search/</loc>
+<loc>https://kjelljorner.github.io/blog/search/</loc>
 </url>
 <url>
-<loc>https://kjelljorner.github.io/blog_test/categories/</loc>
+<loc>https://kjelljorner.github.io/blog/categories/</loc>
 </url>
 </urlset>
