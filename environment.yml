@@ -8,3 +8,4 @@ dependencies:
   - rdkit
   - pip:
     - py3Dmol
+    - pyscf
